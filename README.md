@@ -24,13 +24,17 @@ the program to operate correctly.
 
 ## Dependencies:
 [opencsv](http://opencsv.sourceforge.net/)
+
 [mslinks](https://github.com/DmitriiShamrikov/mslinks])
 
 
 opencsv is dependent on several libraries from [Apache Commons](https://commons.apache.org/):
-	[commons-beanutils](https://commons.apache.org/proper/commons-beanutils/)
-	[commons-lang](https://commons.apache.org/proper/commons-lang/)
-	[commons-text](https://commons.apache.org/proper/commons-text/)
+
+&nbsp;&nbsp;&nbsp;&nbsp;[commons-beanutils](https://commons.apache.org/proper/commons-beanutils/)
+	
+&nbsp;&nbsp;&nbsp;&nbsp;[commons-lang](https://commons.apache.org/proper/commons-lang/)
+	
+&nbsp;&nbsp;&nbsp;&nbsp;[commons-text](https://commons.apache.org/proper/commons-text/)
 	
 Opencsv  also requires [commons-collection](https://commons.apache.org/proper/commons-collections/) but it's omitted here because I'm not using any
 of its functionality.
