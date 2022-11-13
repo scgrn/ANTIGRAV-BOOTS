@@ -1,0 +1,13 @@
+/build/*
+/dist/*
+/nbproject/private/private.properties
+/nbproject/private/private.xml
+
+**/nbproject/private/
+**/nbproject/Makefile-*.mk
+**/nbproject/Package-*.bash
+nbbuild/
+nbdist/
+.nb-gradle/
+
+notes.txt
