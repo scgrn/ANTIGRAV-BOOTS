@@ -4,9 +4,8 @@ Antigrav Boots is a utility that allows you to quickly merge comma separated val
 Windows Explorer context menu.
 
 ![image](https://github.com/scgrn/ANTIGRAV-BOOTS/blob/main/images/screenshot.png)
-<!--
-If you're just looking for a ready-to-use binary, you can find one [here]().
--->
+If you're just looking for a ready-to-use binary, you can find one [here](https://github.com/scgrn/ANTIGRAV-BOOTS/releases/download/v1.0.0/Antigrav.Boots.exe).
+
 ## Usage:
 Run the executable once without arguments to install. It will update the registry and
 create a shortcut link in your user folder.
@@ -18,7 +17,7 @@ select send to->combine csv files, specify an output filename, and you're off to
 
 To build, use a Java 8+ JDK and [Apache Ant](https://ant.apache.org/) version 1.8 or above.
 
-An XML discriptor for [Launch4j](https://launch4j.sourceforge.net/) is included to build an executable. It is
+An XML descriptor for [Launch4j](https://launch4j.sourceforge.net/) is included to build an executable. It is
 currently required that the compiled jar be wrapped into an executable for
 the program to operate correctly.
 
