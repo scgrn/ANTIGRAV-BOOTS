@@ -3,7 +3,9 @@
 Antigrav Boots is a utility that allows you to quickly merge comma separated value (CSV) files from the
 Windows Explorer context menu.
 
-![image](https://github.com/scgrn/ANTIGRAV-BOOTS/blob/main/images/screenshot.png)
+
+![image](https://github.com/scgrn/ANTIGRAV-BOOTS/blob/main/images/screenshot.png)  
+
 If you're just looking for a ready-to-use binary, you can find one [here](https://github.com/scgrn/ANTIGRAV-BOOTS/releases/download/v1.0.0/Antigrav.Boots.exe).
 
 ## Usage:
